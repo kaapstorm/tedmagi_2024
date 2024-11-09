@@ -21,5 +21,5 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: generated-site
+          name: tedmagi_2024-11-15
           path: _build/html/

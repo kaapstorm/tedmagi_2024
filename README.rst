@@ -17,9 +17,10 @@ download and browse it:
 
 1. Click the "(⏵) Actions" tab near the top of the page.
 2. Select a workflow from the list.
-3. Under "Artifacts", you will find an artifact named "generated-site".
-   Click the "⤓" download icon to download a zip file.
-4. Extract the zip file in a subdirectory.
+3. Under "Artifacts", you will find an artifact named
+   "tedmagi_2024-11-15". Click the "⤓" download icon to download a zip
+   file.
+4. Extract ``tedmagi_2024-11-15.zip`` in a subdirectory.
 5. Open the ``index.html`` file in your browser.
 
 
