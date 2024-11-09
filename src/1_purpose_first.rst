@@ -10,7 +10,7 @@ There have been times when people have come together, struggled through
 incredible hardship, made tremendous personal sacrifice, in order to
 achieve a staggering outcome.
 
-I want to pick as an example, all the nations that fought in World War
+I want to pick as an example all the nations that fought in World War
 II, but I want to look at 1947 to 1952. `In Germany`_, the Allies,
 including Russia, were brutal after the war. Widespread instances of
 rape, systematic forced labour, and expulsions on a massive scale that
@@ -23,7 +23,7 @@ reestablished its own currency. They formed a new democratic
 government. Unemployment decreased. Production increased. The standard
 of living increased.
 
-A similar process or reconstruction happened `in Japan`_. Massive
+A similar process of reconstruction happened `in Japan`_. Massive
 political and economic reforms resulted in the dismanting of ancient
 social stratifications, allowing economic mobility, and the
 liberalization of society, including the enfanchisement of women. Again,
@@ -35,25 +35,25 @@ and built something better than what had existed before. Some would
 argue, better than what had existed in the countries of both the
 vanquished and the victors!
 
-The war made some people better versions of themselves. (Not everyone!)
-But it gave people something to struggle against, and to overcome. It
-united them with a common purpose.
+The war made some people better versions of themselves. (Definitely not
+everyone!) It gave people something to overcome, and to struggle for.
+It united them with a common purpose.
 
-`In Edinburgh last week`_, teenagers pushed rocket fireworks through the
-mail slots in the front doors of random people. They threw bottles,
-bricks and fireworks at police ... because it's fun.
+`In Edinburgh last week`_, people pushed rocket fireworks through the
+mail slots in the front doors of random strangers. They threw bottles,
+bricks and fireworks at police ... because ... it's fun.
 
 In America ... well ... we all know what happened in America. A rapist
 and convicted felon, who tried to overturn the results of the previous
 election, won the popular vote. I live a very sheltered live, and it's
-hard for me to understand how this can happen. My guess is it has many
-causes. One cause is that many people believe him. Another cause is the
-same reason that teenagers push rocket fireworks through the mail slots
-in the front doors of random people, and throw bottles, bricks and
-fireworks at police. They need to feel part of a team, a movement even.
+hard for me to understand how this can happen. My guess is that it has
+many causes. One cause is that many people believe him. Another cause
+is the same reason that teenagers push rocket fireworks through the
+mail slots in the front doors of random people, and throw bottles,
+bricks and fireworks at police:
 
-They need something that they want to work together for, struggle for,
-win at.
+They need to feel part of a team, a movement even. They need something
+that they want to work together for, struggle for, win at.
 
 They need to be the heroes of their own `hero narrative`_.
 
