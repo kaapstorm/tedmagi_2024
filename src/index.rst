@@ -17,8 +17,9 @@ problems.
 
 .. toctree::
    1_purpose_first
-   2_problem-solving
-   3_representation
-   4_execution
-   5_enablement
-   6_team
+   2_the_story
+   3_problem-solving
+   4_representation
+   5_execution
+   6_enablement
+   7_team
