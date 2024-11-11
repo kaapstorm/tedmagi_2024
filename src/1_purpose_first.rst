@@ -1,10 +1,9 @@
 Purpose First
 -------------
 
-.. todo:
-   Generate an image of chimpanzees, leopards, wolves and humans,
-   dressed as soldiers, charging together across a battlefield
-
+.. image:: img/chimp_battlefield_1.jpg
+   :width: 896px
+   :height: 512px
 
 There have been times when people have come together, struggled through
 incredible hardship, made tremendous personal sacrifice, in order to
@@ -28,7 +27,7 @@ political and economic reforms resulted in the dismanting of ancient
 social stratifications, allowing economic mobility, and the
 liberalization of society, including the enfanchisement of women. Again,
 a new threat, the war in Korea, provided a market for goods and
-services from Japan, and helped to reuild the economy.
+services from Japan, and helped to rebuild the economy.
 
 Was everything peachy? Absolutely not. But recent enemies came together,
 and built something better than what had existed before. Some would
@@ -47,17 +46,37 @@ In America ... well ... we all know what happened in America. A rapist
 and convicted felon, who tried to overturn the results of the previous
 election, won the popular vote. I live a very sheltered live, and it's
 hard for me to understand how this can happen. My guess is that it has
-many causes. One cause is that many people believe him. Another cause
-is the same reason that teenagers push rocket fireworks through the
-mail slots in the front doors of random people, and throw bottles,
-bricks and fireworks at police:
+many causes. One cause is that many people believe him.
 
-They need to feel part of a team, a movement even. They need something
-that they want to work together for, struggle for, win at.
+When Enron lied in their financial reporting, shareholders sued them for
+$40,000,000,000. It's against the law to lie to shareholders. But it's
+not against the law to lie to voters. In fact, since George W. Bush,
+it's been explicit Republican strategy. And when you have parallel
+media universes, and social media stops deleting or tagging lies, you
+can invent a comprehensive fake universe, with wildly distorted
+enemies, and present yourselves as struggling underdog good guys.
+
+They invented a story that is much more powerful than reality. A story
+in which the economy is terrible, in which women are murdering their
+newborns, in which there is an armed invasion from the south with
+sympathetic operatives who have infiltrated the whole of society. Also,
+they're eating our dogs. The Republicans simply, far and away,
+out-bullshitted the Democrats.
+
+Another cause is the same reason that teenagers push rocket fireworks
+through the mail slots in the front doors of random people, and throw
+bottles, bricks and fireworks at police:
+
+They need to feel part of a team. They need something that they want to
+work together for, struggle for, win at.
 
 They need to be the heroes of their own `hero narrative`_.
 
 They need to be given a purpose.
+
+A purpose carried by a more powerful story. Personally, I don't want
+that story to be a lie. But at this point I'm open to suggestions,
+because I don't know how to fight this.
 
 
 .. _In Germany: https://en.wikipedia.org/wiki/Reconstruction_of_Germany
