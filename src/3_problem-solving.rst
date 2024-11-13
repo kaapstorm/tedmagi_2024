@@ -106,23 +106,6 @@ What are the kinds of problems that we need to solve?
 
 There are other problems, but we'll leave it at that.
 
-I want to be clear about what is not a real problem:
-
-* When I was at school, some people didn't fit neatly into the Barbie or
-  the GI Joe boxes. We had names for those people. "Tom boy" was one of
-  the nicer ones. Today people who don't fit neatly look around, and
-  don't see as much vitriol permeating the air about people like
-  themselves, and so they aren't as scared of talking about themselves
-  to other people. But now that more of them are feeling safe enough to
-  talk, safe enough even to live in a way that more accurately
-  represents themselves, it is taking the Barbies and the G.I. Joes by
-  surprise, and the Barbies and the G.I. Joes are losing their minds.
-
-  This is not the problem that they imagine it is. The people who don't
-  fit have always been here. The job of the Barbies and the G.I. Joes
-  is to listen. If they listen attentively enough, they might
-  understand: Society is not falling apart. It is healing.
-
 So, let's say we have a story, and we can inspire a sense of purpose.
 
 How do we channel that momentum for good? How do we use it to address

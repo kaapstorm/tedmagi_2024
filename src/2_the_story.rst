@@ -109,6 +109,15 @@ money.
 
 That sounds a little snappier.
 
+I also want to stress that it's important that these two-dimensional
+cut-out "baddies" will be associated with real people. And those people
+need an obvious path to redemption, and support to help them to get
+there. They also need to be the hero of their own narrative. And maybe
+we need to give them a story to spell it out for them: A way in which
+their families can be supported while they transition to paying their
+fair share of tax, or move from lobbying legislators to allow more use
+of coal and oil, to lobbying them to invest in battery manufacturers.
+
 Is that enough to give people something to struggle for?
 
 To live for? There is a principle that every religion (`even Satanism`_)
