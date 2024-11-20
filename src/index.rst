@@ -20,6 +20,6 @@ any of the other problems.
    2_the_story
    3_problem-solving
    4_representation
-   5_execution
-   6_enablement
+   5_enablement
+   6_execution
    7_team
