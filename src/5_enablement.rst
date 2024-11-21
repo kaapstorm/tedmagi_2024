@@ -1,8 +1,9 @@
 Enablement
 ----------
 
-.. todo:
-   Generate an image of an antelope flicking dollar bills into the air in a "making it rain" motion.
+.. image:: img/antelope_bucks.jpg
+   :width: 512px
+   :height: 512px
 
 If Representation was the WhatsApp or Slack part of the Republic of
 Humanity, then Enablement is the CommCare Connect part.
