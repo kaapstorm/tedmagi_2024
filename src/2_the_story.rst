@@ -5,19 +5,23 @@ The Story
    :width: 512px
    :height: 512px
 
-The goal here is to come up with a better system: A system for solving
-problems. And if one of the problems we're trying to solve is being
-able to identify things that we don't know are true, then establishing
-that system by creating a sense of purposed based on a bullshit story,
-is a fundamental structural flaw, and the system can only be successful
-up to the point at which it dismantles itself. So that's not going to
-work.
+For what I have in mind, this sense of purpose will need to carried by a
+true story.
 
-The story needs a *tangible* threat. The threat of Communism was pivotal
-in the successful rebuilding of Germany. The war in Korea was
-instrumental in the reconstruction of Japan. "Illegals" who
-are "invading our country" and "eating the dogs", are a tangible
-threat, even though it is wildly distorted.
+The goal here is to come up with a better system: A system for solving
+problems. We can't solve problems if we don't know what is true. If we
+can't tell the difference between what we think we know and what we
+actually know, then we are guaranteed to get some stuff wrong.
+
+So we want a story, to create a sense of purpose, to motivate people to
+solve problems. And if the problem-solving system we want to create
+helps us to tell facts from fiction, and we're presenting our story as
+fact, it better be a true story.
+
+The story also needs a *tangible* threat. For example, human enemies are
+tangible. "Illegals" who are "invading our country" and "eating the
+dogs", are a tangible threat, even though that threat is obviously,
+wildly distorted.
 
 "Climate change" is just not tangible. The threat needs to conjure the
 face of a human antagonist in people's minds. How about the oil
@@ -36,68 +40,22 @@ to shareholders. But it's not against the law to lie to voters. *That
 is insane.* It must change immediately.
 
 And what about the plutocrats: the billionaire friends of politicians
-(and supreme court justices); the tech bros who have governments at
-their mercy; and the heirs who inherited real estate empires from their
-dads? Tax cuts for the rich mean reduced social services that will
-cripple the working class (sometimes literally) and eviscerate the
-middle class. All stable democracies rely on a middle class that is
-influential enough to hold their leaders to account. We all know
-countries where the leadership is not held to account. They all have a
-weak middle class.
+and supreme court justices; the tech bros who have governments at their
+mercy; and the heirs who inherited real estate empires from their dads?
+They all campaign for tax cuts for the rich, which mean reduced social
+services that will cripple the working class (sometimes literally) and
+eviscerate the middle class. All stable democracies rely on a middle
+class that is influential enough to hold their leaders to account. We
+all know countries where the leadership is not held to account. They
+all have a weak middle class.
 
 How do we fight the plutocrats?
 
-The solution is a difficult one to accept: We all have to pay 39% on
-both income and capital gains. Everyone, we all pay the same percent,
-so that rich people don't get to claim that they are supporting the
-country. Everyone is supporting the country at the same rate. 39% gives
-the government a big lever to manage inflation, while it spends on
-social services and investments. And then everyone gets those social
-services. Rich and poor. Everyone gets to go to school. Everyone gets
-enough transport to get to school or to work. Everyone gets enough
-electricity to cook with and to study by. Everyone gets medical care.
-You don't need medical insurance if the medical care is good. When rich
-people get services that benefit them too, then they don't feel like
-their taxes are some kind of charity. When social services offer poor
-people the opportunities that they need to get ahead, then they can
-also afford 39% tax.
-
-There is one other benefit: When everyone has the opportunities that
-they need to succeed, not just the lucky ones, then historical
-inequities can be resolved.
-
-(To be clear, this doesn't solve racism. In fact, racists need an
-underclass in order to feel better about themselves, just as
-misogynists do, and steps towards economic equality can trigger a
-backlash. But racism and sexism become easier to deal with when
-everyone has the financial means to rely on themselves.)
-
-Every time the topic of taxes comes up, the plutocrats threaten to
-leave. But that is not a problem!
-
-    Norway also came up with the idea of the state owning shares in
-    private companies: after the second world war the government
-    nationalised all German business interests in Norway and ended up
-    owning 44% of Norsk Hydro’s shares. The formula of controlling
-    business through shares rather than regulation seemed to work
-    well ...
-
-    -- `The Economist`_
-
-Countries don't need plutocrats. The governments of market-based
-economies can invest money in companies themselves.
-
-Oh dear. That got nerdy very fast, and nerdy economics doesn't work in a
-story. Let's try that again.
-
-How do we fight the plutocrats?
-
-We all pay more tax. We all get the services we need, to give us all a
+We all pay a flat rate of tax that is probably higher than we pay at the
+moment. That way, we all get the services we need, to give us all a
 chance to succeed like they did. If they refuse to pay the same tax
 rate as all of us, we will arrest them. If they run away, we will
-replace their money.
-
-That sounds a little snappier.
+replace their money. (More on this later.)
 
 It is important to recognize that these two-dimensional cut-out
 "baddies" will be associated with real people who deserve care just as
@@ -113,8 +71,8 @@ Are these stories enough to give people something to struggle for?
 
 To live for?
 
-There is a principle that every religion (`even Satanism`_) holds a
-variation of, and that is what is known as `the Platinum Rule`_:
+There is a principle that every religion (`even the Satanic Temple`_)
+holds a variation of, and that is what is known as `the Platinum Rule`_:
 "Treat others how they would like to be treated." When we peel back the
 layers of all of the stories, that is what we should find.
 

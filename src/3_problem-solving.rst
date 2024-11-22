@@ -5,19 +5,18 @@ Problem-Solving
    :width: 512px
    :height: 512px
 
-So, we've given people something to believe in. Something they can feel
-that they are a part of, that they can struggle for, and that they can
-win at.
+So, let's say that we've given people something to believe in. Something
+we can feel that we are a part of, that we can struggle for, and
+that we can win at.
 
-What do we need to do? What are the kinds of problems that we need to
-solve?
+It gives us a sense of purpose, and motivates us. Now what? What do we
+need to do? What are the kinds of problems that we need to solve?
 
 * Climate change is a real thing. As areas appropriate for particular
   crops shift to different areas, crops and/or people will need to
-  shift, which will result in conflict and war. This is already
-  happening. Dimagi has projects in some of these places. Climate
-  change will also result in disastrous hurricanes, storms and floods.
-  Also already happening. All of this will continue to get worse.
+  shift, which will result in conflict and war. Climate change will
+  also result in disastrous hurricanes, storms and floods. All these
+  things are already happening, and will continue to get worse.
 
 * Apart from a few very scary moments, in particular a truly terrifying
   `moment in 1962`_, nuclear weapons have been safeguarded by just two
@@ -33,12 +32,6 @@ solve?
   everyone except a handful of tech billionaires sheltering in bunkers
   in New Zealand.
 
-  The more civilization-ending bombs that humanity is juggling, the more
-  likely it becomes that we'll drop one. And if they are controlled by
-  people who are thinking about using them, and we know they're
-  thinking about it because they say so out loud, then the risk just
-  escalates.
-
 * In 2001 a small group of people studied how to fly aeroplanes, and
   then successfully managed to fly three out of four into buildings.
   They hoped to trigger a conflict that would bring an end to Western
@@ -47,34 +40,18 @@ solve?
   In 2024 it is possible for a small group of people to study how to
   create a variation of smallpox in a lab. Covid had a death rate of
   between 1 and 2% of those infected. Smallpox has a death rate of 30%,
-  and a synthetic variant could reach upwards of 90%. If the only
-  survivors were children, they would soon starve.
+  and a synthetic variant could kill upwards of 90%. If the only
+  survivors are children, they will soon starve.
 
-  As a metaphor for a world in which it is increasingly easy to wipe out
-  humanity, imagine an American high school where Second Amendment
-  activists have ensured that every teenager has a gun. How would one
-  solve the problem of school shootings? Every other country has done a
-  better job than America at preventing teenagers from acquiring guns.
-  But for the sake of our metaphor let's take that option off the
-  table, and think about another solution: Imagine if *none* of the
-  kids want to commit mass murder. Not a single one.
-
-  As it becomes easier to kill everyone---literally everyone---we will
-  need to figure out how to identify the people who might, and how to
-  help them not to. And I chose those words deliberately. We cannot
-  punish people for crimes we think they might commit. We have to help
-  them, so that they don't want to.
-
-* Things used to be uncomplicated for men. Right from Day 1, a baby boy
-  was a little bit cooler than a baby girl. Parents loved their
-  daughters, of course, but dads taught their sons how to play sports
-  and took them to matches. They introduced them to their business
-  connections, and taught them how to shake hands like a man. Moms
-  would divide up household chores in such a way that girls did the
-  inside chores, and boys did the outside chores, and somehow the
-  outside chores never took as much time as the inside chores.
-  Sometimes transgressions were dismissed with "boys will be boys," or
-  a wink behind Mom's back.
+* Some problems are a lot more personal. Things used to be uncomplicated
+  for men. Right from Day 1, a baby boy was a little bit cooler than a
+  baby girl. Parents loved their daughters, of course, but dads
+  introduced their sons to their business connections, and taught them
+  how to shake hands like a man. Moms would divide up household chores
+  in such a way that girls did the inside chores, and boys did the
+  outside chores, and somehow the outside chores never took as much
+  time as the inside chores. Sometimes transgressions were dismissed
+  with "boys will be boys," or a wink behind Mom's back.
 
   Boys grew up with a certain understanding of how things were, and
   certain expectations of how things will be for them.
@@ -82,17 +59,18 @@ solve?
   Except, now there are girls who have the same expectations.
 
   And it comes as a rude surprise for men that their expectations aren't
-  specially for them. The things that previously were only available to
-  men, like the best-paying jobs, or the legal right to make all of the
-  decisions, now those things are available to everyone.
+  exclusively for them. The best-paying jobs, or the legal right to
+  make all of the decisions, now those things are available to
+  everyone.
 
   So men can no longer trade on them. Women used to need men, and that
   is no longer true.
 
   Some men understand that the way to have sex, and to have happy,
-  successful relationships, is not to trade access to money for those
-  things, but rather to be the kind of person that other people want to
-  sleep with, and want to have happy, successful relationships with.
+  successful relationships, is not to trade access to money and
+  influence for those things, but rather to be the kind of person that
+  other people want to sleep with, and want to have happy, successful
+  relationships with.
 
   Other men don't like this. Being a decent human being is complicated.
   They want their expectations back. They want to go back to the "good
@@ -109,10 +87,10 @@ problems. We need to listen. We need to hear about the big problems
 like climate change, and the millions of little problems, the everyday
 challenges that we all face.
 
-Designing under the mango tree is all about listening directly to the
+Designing Under The Mango Tree is all about listening directly to the
 people who can share what the problems are.
 
-How do we do that?
+How do we do that at scale?
 
 
 .. _moment in 1962: https://en.wikipedia.org/wiki/Cuban_Missile_Crisis

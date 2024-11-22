@@ -10,10 +10,6 @@ Humanity, then Enablement is the CommCare Connect part.
 
 Enablement is how the Republic of Humanity gets things done.
 
-Or, keeping with Dimagi context, if Representation touches on Team, then
-Enablement touches on Profit. (The next section, Execution, will touch
-on Impact.)
-
 The Republic of Humanity has a floating fiat currency. I would call it
 "ROH Bucks", but I worry that the name "Robux" is already taken. It is
 not a cryptocurrency; it is not governed by an algorithm. It is issued
@@ -26,14 +22,8 @@ The Republic of Humanity pays companies and individuals to execute on
 the decisions made by representatives. These decisions can include
 providing services to members, or solving problems in the world.
 
-Remember, zooming all the way out for a second, the Republic of Humanity
-has true stories, to inspire people with purpose. And the motivation
-driven by that purpose is channeled to solve problems. That's what the
-Republic of Humanity is for: Identifying problems, finding solutions,
-and executing on them.
-
-The people who do that work are paid in ROH Bucks. They get to spend
-their ROH Bucks on other businesses and individuals.
+The companies and individuals who do that work are paid in ROH Bucks.
+They get to spend their ROH Bucks on other businesses and individuals.
 
 But the Republic of Humanity can't just keep paying people with more and
 more ROH Bucks. That would result in run-away inflation. They need to
@@ -53,7 +43,7 @@ to me, the Republic of Humanity would levy three main taxes:
   do need a day job.
 
 * Wealth tax. This is controversial in some countries, but certainly not
-  new. Wealth tax would be tied to inflation, so that inflation hurts
+  new. Wealth tax should be tied to inflation, so that inflation hurts
   everyone, not only the poor.
 
 The second way to recoup currency would be for the Central Bank to issue
@@ -69,6 +59,7 @@ their fair share.
 
 A word about distribution. In some places today, local property taxes
 pay for local schools. That means that richer neighbourhoods get better
-schools. That's not equitable. Location-based services, like schools,
-must be funded equitably. But, a callback to autonomy, location groups
-should be able to decide how their funding is allocated.
+schools. That's not equitable. Location groups are funded equitably.
+But, a callback to autonomy, location groups must be able to decide how
+their funding is allocated, because they know best what their problems
+are.

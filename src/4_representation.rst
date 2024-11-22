@@ -19,8 +19,9 @@ pre-approved before you get to choose them. For example, in some
 democracies an election campaign is very expensive. If candidates rely
 on campaign contributions from rich people, then only candidates that
 rich people will give money to will be available for you to choose
-from. Some candidates can get broad support from people who aren't
-rich, but there aren't enough of those candidates to change things.
+from. Some candidates *can* get broad financial support from people who
+aren't rich, but there aren't enough of those candidates to change
+things.
 
 So then what do you do?
 
@@ -33,10 +34,11 @@ Twitter/X.
 Here is what I'm thinking: The new system is not a country. It's an app.
 
 I haven't thought of a good name for it, so for now I'm just calling it
-the **Republic of Humanity**. It's like WhatsApp or Slack in that it
-has groups, but its groups work differently.
+the **Republic of Humanity**. Again, definitely something to workshop.
 
-There are two kinds of groups: Interest groups and location groups.
+It's like WhatsApp or Slack in that it has groups, but its groups work
+differently. There are two kinds of groups: Interest groups, and
+location groups.
 
 You can join any interest groups you like. Your location group is
 determined by the neighbourhood where you live.
@@ -60,8 +62,9 @@ belong to multiple, because that's closer to what people are like.
 
 The reason that groups have no more than 72 people is so that you
 interact with no more than 144 people if you are a location
-representative and you belong to two location groups. When groups
-split, 72 divides up nicely in half, in thirds, in quarters, etc.
+representative and you belong to two location groups. 144 is close to
+`Dunbar's Number`_. When groups split, 72 divides up nicely in half, in
+thirds, in quarters, etc.
 
 So that is how the system listens to people at each level.
 
@@ -73,18 +76,20 @@ not allowed to join the EU, even though the majority of Scottish people
 want to, and it's not allowed to establish its own currency.
 
 So Scotland is an example of a negotiation about how much autonomy each
-level of representatives should have. I don't have answers, but the
-different location groups in the Republic of Humanity will need to have
-those conversations, and figure it out.
+level of representatives should have. Different location groups in the
+Republic of Humanity will need to have the same kind of negotiation,
+and decide for themselves.
 
 I also believe that everyone in the Republic of Humanity must vote for
-their location representatives. The consequences of compulsory voting
-is that it is much more difficult for extremists to capture the upper
-location groups. And democracy is not a right; it is a duty. Everyone
-is responsible for what the Republic of Humanity does. If you aren't
-willing to take any responsibility, then the Republic of Humanity is
-not for you.
+their representatives. The consequences of compulsory voting is that it
+is much more difficult for extremists to capture groups. Democracy is
+not a right; it is a duty. Everyone is responsible for what the
+Republic of Humanity does. If you aren't willing to take any
+responsibility, then the Republic of Humanity is not for you.
 
 That brings us to what the Republic of Humanity does. We've talked about
 listening and being heard. But what do we do about it? How does the
 action get done?
+
+
+.. _Dunbar's Number: https://en.wikipedia.org/wiki/Dunbar's_number
