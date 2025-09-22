@@ -76,9 +76,9 @@ not allowed to join the EU, even though the majority of Scottish people
 want to, and it's not allowed to establish its own currency.
 
 So Scotland is an example of a negotiation about how much autonomy each
-level of representatives should have. Different location groups in the
-Republic of Humanity will need to have the same kind of negotiation,
-and decide for themselves.
+level of representatives should have. This is called "devolution".
+Different location groups in the Republic of Humanity will need to have
+the same kind of negotiation, and decide for themselves.
 
 I also believe that everyone in the Republic of Humanity must vote for
 their representatives. The consequences of compulsory voting is that it
